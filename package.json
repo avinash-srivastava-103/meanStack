@@ -1,9 +1,9 @@
 {
-  "name": "ReST-API",
+  "name": "Experimental-Learning",
   "version": "1.0.0",
   "description": "A simple RESTFul API created using nodejs that talks to Mongodb database",
   "main": "server.js",
-  "author": "codenx",
+  "author": "failuree",
   "license": "ISC",
   "scripts": {
     "start": "webpack --config webpack.config.js",
